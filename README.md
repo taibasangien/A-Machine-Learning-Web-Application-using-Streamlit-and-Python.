@@ -1,0 +1,2 @@
+# Web-app-using-streamlit-and-python
+The project aims at building a machine learning web app that allows any user to interactively choose a classification algorithm such as SVM, Logistic Regression etc and set their own values for hyper parameter settings where they can modify the regularization parameter, evaluation metrics. Results are dynamically displayed on the web page in real time. The tool is used as model selection where hyper parameters are modified to witness the change in the accuracy of the binary classification model.
